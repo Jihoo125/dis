@@ -1,0 +1,3 @@
+# Discord.py 2.x
+# discord.py-captcha is imported by the verification cog
+python-dotenv
